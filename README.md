@@ -22,7 +22,7 @@ Welcome to my GitHub profile!
 ![Vivien's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivien-Chambe&show_icons=true&theme=radical)
 
 
-## 🌵⭐ Meet Pablo The CActus Sheriff  
+## 🌵⭐ Meet Pablo The Cactus Sheriff  
 ```           _   _
              / '-' \
             ;       ;
